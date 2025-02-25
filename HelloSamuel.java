@@ -1,5 +1,5 @@
 class HelloSamuel{
 	 public static void main(String[] args){
-		System.out.print("Hello, My name is Samuel");
+		System.out.print("Hello world");
 }
 }
